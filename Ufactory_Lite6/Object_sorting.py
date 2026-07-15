@@ -7,7 +7,7 @@ from simple_pid import PID
 import time
 
 # ===== CONFIG =====
-YOLO_MODEL = "C:/Users/mukhi/Documents/ufactory_arm/best.pt"
+YOLO_MODEL = "C:/Users/mukhi/Documents/ufactory_arm/best.pt"  # change this path
 FIXED_Z = 250
 ROBOT_IP = "192.168.1.169"
 DETECT_XYZ = [200, 0, 300]
